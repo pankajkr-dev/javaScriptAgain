@@ -36,3 +36,16 @@ console.log(2/2);
 console.log(2**2); //use for power(2 to the power 2);
 console.log(2%2); // for remender output
 
+//you can also add strings
+
+let str1="Pankaj";
+let str2=" Kumar";
+
+let str3=str1+str2;
+console.log(str3);
+
+console.log("2"+2);
+console.log(2+"2");
+console.log(1+"2"+"2");
+console.log("1"+2+2);
+console.log(1+2+"2");
